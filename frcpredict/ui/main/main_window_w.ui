@@ -351,7 +351,7 @@
                 </font>
                </property>
                <property name="title">
-                <string>Flouophore Illumination Response</string>
+                <string>Fluorophore Illumination Response</string>
                </property>
                <property name="flat">
                 <bool>false</bool>
