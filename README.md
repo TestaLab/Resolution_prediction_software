@@ -20,6 +20,8 @@ started" guide below.
 ### Running the application
 In the root folder of the repo, run the command `python -m frcpredict` to launch the software.
 
+Example input parameters can be found in the Example_parameters.json file. 
+
 ### Building a bundle
 To build a bundle with a runnable executable and dependencies included, run the PyInstaller command:
 `pyinstaller frcpredict.spec`. PyInstaller can be downloaded from PyPI using
@@ -29,4 +31,3 @@ To build a bundle with a runnable executable and dependencies included, run the 
 ## Further information
 See [the wiki](https://github.com/Bodeeen/Resolution_prediction_software/wiki) for more information
 about how to use the program as well as a developer guide.
- 
