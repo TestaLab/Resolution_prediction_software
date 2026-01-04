@@ -20,7 +20,7 @@ started" guide below.
 ### Running the application
 In the root folder of the repo, run the command `python -m frcpredict` to launch the software.
 
-Example input parameters can be found in the Example_parameters.json file. 
+Example input parameters can be found in the Example_parameters.json file. Additional examples and configuration file can be found in the Zenodo repoistory 10.5281/zenodo.18144981, related to the article: "A versatile tool to predict and guide RESOLFT images based on photoswitching, labelling, and optical properties", Andreas Bodén, Staffan Al-Kadhimi, Eleonora Uriati, Ilaria Testa and Francesca Pennacchietti.
 
 ### Building a bundle
 To build a bundle with a runnable executable and dependencies included, run the PyInstaller command:
